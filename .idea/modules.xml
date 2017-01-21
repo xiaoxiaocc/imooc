@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/immo_jdbc_next/immo_jdbc_next.iml" filepath="$PROJECT_DIR$/immo_jdbc_next/immo_jdbc_next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc.iml" filepath="$PROJECT_DIR$/imooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_jdbc/imooc_jdbc.iml" filepath="$PROJECT_DIR$/imooc_jdbc/imooc_jdbc.iml" />
+    </modules>
+  </component>
+</project>
